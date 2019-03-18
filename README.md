@@ -246,7 +246,7 @@
 ```
 
 ### ⚠️注意：
->本demo已将BabyBluetooth开源库移除，如需运行Demo请使用CocoaPods将BabyBluetooth库导入工程中。(本Demo使用的BabyBluetooth开源库的版本是：0.7.0)
+>Demo已将BabyBluetooth开源库移除，如需运行Demo请使用CocoaPods将BabyBluetooth库导入工程中。(Demo中使用的BabyBluetooth开源库的版本是：0.7.0)
 
 ### ☎️联系：
 >🐧:1625277373<br>
